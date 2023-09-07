@@ -4,7 +4,8 @@
 
 Latest YouTube Video
 
-Languages and Tools
+### Languages and Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript)
 ![Vue](https://img.shields.io/badge/-Vue-090909?style-for-the-badge&logo=Vue)
 ![React](https://img.shields.io/badge/-React-090909?style-for-the-badge&logo=React)
@@ -13,4 +14,5 @@ Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=Git)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style-for-the-badge&logo=Gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style-for-the-badge&logo=Webpack)
-Follow Me
+
+### Follow Me
