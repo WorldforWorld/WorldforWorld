@@ -19,7 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=Git)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style-for-the-badge&logo=Gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style-for-the-badge&logo=Webpack)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style-for-the-badge&logo=CI/CD)
 
 ### Follow Me
 
