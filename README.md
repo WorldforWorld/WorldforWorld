@@ -2,7 +2,12 @@
 
 ## I'm a beginner front-end developer and web interface developer.
 
-### Latest YouTube Video
+### My projects
+
+- React - [Code](https://github.com/WorldforWorld/react-1) / [Rezult](https://worldforworld.github.io/react-1/profile)
+- Vue - [Code](https://github.com/WorldforWorld/home-bookkeeping) / [Rezult](https://vue-crm-114d3.web.app/)
+- Afrianska - [Code](https://github.com/WorldforWorld/afrianska) / [Rezult](https://worldforworld.github.io/afrianska/)
+- Repair Desing - [Code](https://github.com/WorldforWorld/repair-desing_refact) / [Rezult](https://worldforworld.github.io/repair-desing_refact/)
 
 ### Languages and Tools
 
@@ -14,6 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=Git)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style-for-the-badge&logo=Gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style-for-the-badge&logo=Webpack)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style-for-the-badge&logo=CI/CD)
 
 ### Follow Me
 
