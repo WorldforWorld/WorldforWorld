@@ -19,16 +19,5 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style-for-the-badge&logo=telegram)](https://t.me/YuriKuzmichev)
 
-<style>
-  .stats {
-    display:flex;
-    flex-direction: row;
-    align-items: center;
-  }
-</style>
-<div class="stats">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WorldforWorld)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WorldforWorld&show_icons=true)](https://github.com/WorldforWorld)
-
-</div>
