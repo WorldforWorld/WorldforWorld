@@ -6,7 +6,7 @@
 
 - Vue - [Code](https://github.com/WorldforWorld/home-bookkeeping) / [Rezult](https://vue-crm-114d3.web.app/) / pwd: v1@mail.ru | 123456
 - React - [Code](https://github.com/WorldforWorld/react-1) / [Rezult](https://worldforworld.github.io/react-1) / pwd: 2091god@mail.ru | Horoshiparol
-- Repair Desing - [Code](https://github.com/WorldforWorld/repair-desing_refact) / [Rezult](https://worldforworld.github.io/repair-desing_refact/)
+<!-- - Repair Desing - [Code](https://github.com/WorldforWorld/repair-desing_refact) / [Rezult](https://worldforworld.github.io/repair-desing_refact/)-->
 <!--  - Afrianska - [Code](https://github.com/WorldforWorld/afrianska) / [Rezult](https://worldforworld.github.io/afrianska/) -->
 
 ### Languages and Tools
