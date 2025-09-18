@@ -1,6 +1,7 @@
 ![Header](https://github.com/WorldforWorld/WorldforWorld/blob/main/assets/header.jpg)
 
-## I'm a beginner front-end developer and web interface developer.
+## I'm 
+<!-- a beginner front-end developer and web interface developer. -->
 
 <!-- ### My projects -->
 
